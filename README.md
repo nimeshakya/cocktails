@@ -7,6 +7,6 @@ Save cocktails your favourite cocktails for future reference and share it with f
 
 ## Technologies Used
 
-**Frontend** - ReactJS, SCSS  
-**Backend** - Django  
+**Frontend** - ReactJS, SCSS<br>
+**Backend** - Django<br>
 **Database** - PostgreSQL
