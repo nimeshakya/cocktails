@@ -10,3 +10,4 @@ Save cocktails your favourite cocktails for future reference and share it with f
 **Frontend** - ReactJS, SCSS<br>
 **Backend** - Django<br>
 **Database** - PostgreSQL
+ hehe
