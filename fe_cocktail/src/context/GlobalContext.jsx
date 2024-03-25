@@ -18,7 +18,6 @@ const GlobalProvider = ({ children }) => {
     // toggle between login and registration forms
     const [registrationToggle, setRegistrationToggle] = useState(false);
     // state of user logged in or not
-    const [userLoggedIn, setUserLoggedIn] = useState(false);
 
     useEffect(() => {
         client
